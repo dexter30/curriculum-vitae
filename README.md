@@ -2,7 +2,7 @@
 
 [www.linkedin.com/in/dean-dadolahi-sarjoo-9a6947aa](http://www.linkedin.com/in/dean-dadolahi-sarjoo-9a6947aa)
 
-deandado.co.uk
+Portfolio Site: [DeanDado.co.uk](https://deandado.co.uk/)
 
 Accomplished software engineer with six years of expertise in graphical programming and game development. Renowned for high productivity, tenacity, and efficiency, with a proven track record in both research and development of mobile technology and software solutions.
 
